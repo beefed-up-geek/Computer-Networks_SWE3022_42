@@ -1,4 +1,4 @@
-# 🧠 Programming Assignment  
+# 🤔 Programming Assignment  
 ## Improving the Performance of TCP Reno Algorithm  
 **마감일:** 2025년 12월 12일  
 
